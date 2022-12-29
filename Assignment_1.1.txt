@@ -1,0 +1,20 @@
+1. Name four of the main data types in Python.
+2. Why are these data types known as Python’s core data types?
+3. What does immutable mean and what three types of Python core data types are considered immutable?
+4. What does sequence mean and which three types of data fall into this category?
+5. What does mapping mean and what kind of data type is based on mapping?
+6. What is meant by an Operator in Python?
+7. Types of operators in Python?
+8. What is the difference between “is” and “ == “ in Python?
+9. What is pass in Python?
+10. What Is The Difference Between Pass And Continue In Python? 
+11. When Should You Use The “Break” In Python? 
+12. Which loop in Python is a counter-controlled loop?
+13. Which Python statement is used to bring control out of the current loop?
+14. What is the difference between the continue and break statements in Python?
+15. What is the Python syntax for a for loop?
+16. What are the two types of functions in Python?
+17. When should you use anonymous functions?
+18. Explain what decorators are in Python?
+19. Do Python functions have return values? If yes, then how many can they have?
+20. Is it possible to pass a variable number of arguments to a function in Python? If yes, then how?
